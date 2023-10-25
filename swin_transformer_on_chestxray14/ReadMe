@@ -1,0 +1,5 @@
+Training a Swin Transformer from scratch on NIH Chest X-rays
+Fine-tuning the Swin Transformer pre-trained on ImageNet for NIH Chest X-rays and comparing with training from scratch (Item 1) by computing the p-value
+You can find NIH Chest X-rays at https://www.cc.nih.gov/drd/summers.html 
+You can find Swin Transformers at https://github.com/microsoft/Swin-Transformer
+I follow the official split in training, validation, and test: https://github.com/MR-HosseinzadehTaher/BenchmarkTransferLearning/tree/main/dataset.
